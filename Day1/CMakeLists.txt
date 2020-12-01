@@ -1,0 +1,1 @@
+add_executable(Day1 Solution.cpp Input.txt)
